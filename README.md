@@ -5,8 +5,7 @@ The script will write every scriptblock to a text file based on the time of exec
 
 Example: 
 
-\path\powershell_extract\2019_01_31
-03_57_49.88c227db-be89-4f34-82ad-e63181053376.txt
+\path\powershell_extract\2019_01_31\03_57_49.88c227db-be89-4f34-82ad-e63181053376.txt
 
 The above example was logged at 03:57:49 on 2019-01-31 and the UUID is 88c227db-be89-4f34-82ad-e63181053376.
 
