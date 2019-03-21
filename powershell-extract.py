@@ -1,5 +1,4 @@
 from datetime import datetime
-import json
 from Evtx import Evtx as evtx
 import sys
 import os
